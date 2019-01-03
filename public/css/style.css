@@ -9530,8 +9530,32 @@ nav {
   padding-left: 2.65em;
 }
 
-.partie1 {
+.sec1 {
   background: #e6e6dd;
+}
+
+.card-body {
+  background-color: #e0dede;
+}
+
+.dot {
+  height: 65px;
+  width: 65px;
+  background-color: #eeebeb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+i {
+  color: #3d52a8;
+}
+
+.kaart {
+  background-color: #3e4562;
+}
+
+.sec3 {
+  background-color: #455cbd;
 }
 
 /*# sourceMappingURL=style.css.map */
