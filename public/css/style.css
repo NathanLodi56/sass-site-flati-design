@@ -9511,5 +9511,27 @@ h3 {
     border-color: #dee2e6;
   }
 }
+nav {
+  background-color: #3c3c4b;
+}
+
+.navbar-brand {
+  margin-left: 11em;
+}
+
+.navbar-nav {
+  margin-left: 16.25em;
+}
+.navbar-nav a {
+  font-size: 0.75em;
+}
+
+#word {
+  padding-left: 2.65em;
+}
+
+.partie1 {
+  background: #e6e6dd;
+}
 
 /*# sourceMappingURL=style.css.map */
